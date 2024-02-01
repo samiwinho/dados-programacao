@@ -69,42 +69,48 @@
     "António Manuel",
     "Manuel Ribeiro",
     "Joaquim Veloso",
-    "Fernando Silva"
+    "Fernando Silva",
+    ""
   ],
   "semana2": [
     "António Manuel",
     "Fernando Silva",
     "Joaquim Veloso",
     "Sérgio Pereira",
-    "José Augusto"
+    "José Augusto",
+    ""
   ],
   "semana3": [
     "Samuel Silva",
     "Celso Vilacova",
     "António Manuel",
     "José Augusto",
-    "Sérgio Loureiro"
+    "Sérgio Loureiro",
+    ""
   ],
   "semana4": [
     "Celso Vilacova",
     "Sérgio Loureiro",
     "Manuel Ribeiro",
     "Sérgio Pereira",
-    "Joaquim Veloso"
+    "Joaquim Veloso",
+    ""
   ],
   "semana5": [
     "Samuel Silva",
     "Celso Vilacova",
     "António Manuel",
     "Manuel Ribeiro",
-    "José Augusto"
+    "José Augusto",
+    ""
   ],
   "semana6": [
     "Miguel Lopes",
     "Sérgio Loureiro",
     "Joaquim Veloso",
     "Sérgio Pereira",
-    "José Augusto"
+    "José Augusto",
+    ""
   ],
   "semana7": [
     "Celso Vilacova",
@@ -119,13 +125,15 @@
     "António Manuel",
     "Sérgio Pereira",
     "José Augusto",
-    "Fernando Silva "
+    "Fernando Silva",
+    ""
   ],
   "semana9": [
     "António Manuel",
     "Sérgio Loureiro",
     "Manuel Ribeiro",
     "Sérgio Pereira",
-    "Joaquim Veloso"
+    "Joaquim Veloso",
+    ""
   ]
 }
